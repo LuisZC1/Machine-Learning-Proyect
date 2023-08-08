@@ -16,3 +16,4 @@ The evolution of each instance over time.
 The "cloudwords" from the entire dataset and from segments exclusively containing hate speech.
 The execution of three experiments using double verification, a k-Nearest Neighbors (knn) model, and a combination of both to contrast the outcomes.
 Access the detailed analysis on Google Colab here.
+https://colab.research.google.com/drive/1OfVlTLfUNYyFKPAHULP0l0hdnjUqtb5n?usp=sharing
